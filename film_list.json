@@ -1,10 +1,26 @@
 [
   {
-    "title": "matrix",
-    "category": "Aksiyon",
-    "year": "2003",
-    "description": "Makineler son derece önemli bir bilgi edinmiş ve insanların özgürce yaşayabildikleri tek ve son şehir olan Zion’un yerini öğrenmişlerdir. Bu şehri ortadan kaldırmak için buraya ahtapota benzer yaratıklardan binlercesini göndermeye karar verirler. Neo ve arkadaşları bunu engellemek için makinelerin dünyasının tüm sırlarını bilen “Anahtarcı”yı bulmaları gerekir. Ama bu kolay değildir çünkü Anahtarcı, ustaca bıçak kullanan ve hayalet gibi yok olup tekrar ortaya çıkan “İkizler” adlı yaratıklar tarafından korunmaktadır. Bu arada Ajan Smith de kendini geliştirmiş, virüs gibi klonlanmayı öğrenmiştir...",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "video_url": "https://drive.google.com/file/d/17H-H96MD3GqcENX-QEKVDR16HZ6c-jFC/view?usp=sharing"
+    "title": "Big Buck Bunny",
+    "year": "2008",
+    "category": "Animation",
+    "description": "Blender Foundation tarafından yapılmış eğlenceli bir animasyon filmi.",
+    "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "title": "Sintel",
+    "year": "2010",
+    "category": "Animation",
+    "description": "Bir kızın ejderhasını arayışı.",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sintel_poster.jpg/800px-Sintel_poster.jpg",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "title": "Tears of Steel",
+    "year": "2012",
+    "category": "Bilim Kurgu",
+    "description": "Blender Vakfı'ndan bir kısa bilim kurgu filmi.",
+    "poster": "https://mango.blender.org/wp-content/themes/mango/img/mango_blog_title.jpg",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
   }
 ]
