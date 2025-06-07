@@ -1,4 +1,4 @@
-[
+self.film_data = [
   {
     "title": "La Casa de Papel",
     "category": "Dizi",
@@ -20,3 +20,4 @@
     "thumbnail": "https://example.com/inception.jpg"
   }
 ]
+self.create_tabs()
