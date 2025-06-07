@@ -4,7 +4,14 @@
     "category": "Animasyon",
     "year": 2008,
     "description": "Sevimli büyük tavşanın macerası.",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "qualities": {
+      "240p": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p.mp4",
+      "480p": "https://sample-videos.com/video123/mp4/480/big_buck_bunny_480p.mp4",
+      "720p": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "1080p": "https://sample-videos.com/video123/mp4/1080/big_buck_bunny_1080p.mp4",
+      "2K": "https://sample-videos.com/video123/mp4/2k/big_buck_bunny_2k.mp4",
+      "4K": "https://sample-videos.com/video123/mp4/4k/big_buck_bunny_4k.mp4"
+    },
     "subtitle_url": "",
     "language": "İngilizce Altyazı",
     "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
@@ -14,7 +21,14 @@
     "category": "Animasyon",
     "year": 2010,
     "description": "Cesur kızın ejderha macerası.",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "qualities": {
+      "240p": "https://sample-videos.com/video123/mp4/240/sintel_240p.mp4",
+      "480p": "https://sample-videos.com/video123/mp4/480/sintel_480p.mp4",
+      "720p": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "1080p": "https://sample-videos.com/video123/mp4/1080/sintel_1080p.mp4",
+      "2K": "https://sample-videos.com/video123/mp4/2k/sintel_2k.mp4",
+      "4K": "https://sample-videos.com/video123/mp4/4k/sintel_4k.mp4"
+    },
     "subtitle_url": "",
     "language": "İngilizce Altyazı",
     "poster": "https://durian.blender.org/wp-content/uploads/2010/05/sintel_poster.jpg"
@@ -24,7 +38,14 @@
     "category": "Animasyon",
     "year": 2006,
     "description": "Gerçeküstü kısa film.",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "qualities": {
+      "240p": "https://sample-videos.com/video123/mp4/240/elephants_dream_240p.mp4",
+      "480p": "https://sample-videos.com/video123/mp4/480/elephants_dream_480p.mp4",
+      "720p": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "1080p": "https://sample-videos.com/video123/mp4/1080/elephants_dream_1080p.mp4",
+      "2K": "https://sample-videos.com/video123/mp4/2k/elephants_dream_2k.mp4",
+      "4K": "https://sample-videos.com/video123/mp4/4k/elephants_dream_4k.mp4"
+    },
     "subtitle_url": "",
     "language": "İngilizce Altyazı",
     "poster": "https://orange.blender.org/wp-content/themes/orange/images/common/ed_poster.jpg"
@@ -34,7 +55,14 @@
     "category": "Animasyon",
     "year": 2012,
     "description": "Bilimkurgu kısa film.",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "qualities": {
+      "240p": "https://sample-videos.com/video123/mp4/240/tears_of_steel_240p.mp4",
+      "480p": "https://sample-videos.com/video123/mp4/480/tears_of_steel_480p.mp4",
+      "720p": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "1080p": "https://sample-videos.com/video123/mp4/1080/tears_of_steel_1080p.mp4",
+      "2K": "https://sample-videos.com/video123/mp4/2k/tears_of_steel_2k.mp4",
+      "4K": "https://sample-videos.com/video123/mp4/4k/tears_of_steel_4k.mp4"
+    },
     "subtitle_url": "",
     "language": "İngilizce Altyazı",
     "poster": "https://mango.blender.org/wp-content/themes/mango/images/common/tears_poster.jpg"
@@ -44,7 +72,14 @@
     "category": "Kısa Film",
     "year": 2013,
     "description": "Komik kısa video.",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "qualities": {
+      "240p": "https://sample-videos.com/video123/mp4/240/for_bigger_blazes_240p.mp4",
+      "480p": "https://sample-videos.com/video123/mp4/480/for_bigger_blazes_480p.mp4",
+      "720p": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "1080p": "https://sample-videos.com/video123/mp4/1080/for_bigger_blazes_1080p.mp4",
+      "2K": "https://sample-videos.com/video123/mp4/2k/for_bigger_blazes_2k.mp4",
+      "4K": "https://sample-videos.com/video123/mp4/4k/for_bigger_blazes_4k.mp4"
+    },
     "subtitle_url": "",
     "language": "İngilizce Altyazı",
     "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
