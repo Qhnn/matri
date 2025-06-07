@@ -5,9 +5,9 @@
     "year": 2008,
     "description": "Sevimli büyük tavşanın macerası.",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/bigbuckbunny_en.srt",
+    "subtitle_url": "",
     "language": "İngilizce Altyazı",
-    "poster": "https://peach.blender.org/wp-content/uploads/bbb-splash.png"
+    "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
   },
   {
     "title": "Sintel",
@@ -15,9 +15,9 @@
     "year": 2010,
     "description": "Cesur kızın ejderha macerası.",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/sintel_en.srt",
+    "subtitle_url": "",
     "language": "İngilizce Altyazı",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sintel_poster.jpg/320px-Sintel_poster.jpg"
+    "poster": "https://durian.blender.org/wp-content/uploads/2010/05/sintel_poster.jpg"
   },
   {
     "title": "Elephants Dream",
@@ -25,9 +25,9 @@
     "year": 2006,
     "description": "Gerçeküstü kısa film.",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/elephantsdream_en.srt",
+    "subtitle_url": "",
     "language": "İngilizce Altyazı",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg"
+    "poster": "https://orange.blender.org/wp-content/themes/orange/images/common/ed_poster.jpg"
   },
   {
     "title": "Tears of Steel",
@@ -35,9 +35,9 @@
     "year": 2012,
     "description": "Bilimkurgu kısa film.",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/tearsofsteel_en.srt",
+    "subtitle_url": "",
     "language": "İngilizce Altyazı",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tears_of_Steel_poster.jpg/320px-Tears_of_Steel_poster.jpg"
+    "poster": "https://mango.blender.org/wp-content/themes/mango/images/common/tears_poster.jpg"
   },
   {
     "title": "For Bigger Blazes",
@@ -45,7 +45,7 @@
     "year": 2013,
     "description": "Komik kısa video.",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/forbiggerblazes_en.srt",
+    "subtitle_url": "",
     "language": "İngilizce Altyazı",
     "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
   }
