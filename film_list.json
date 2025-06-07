@@ -1,10 +1,52 @@
-{
-  "title": "La Casa de Papel",
-  "category": "Dizi",
-  "year": 2017,
-  "description": "Bir grup soyguncunun İspanya Kraliyet Darphanesi'ni soymasını anlatan dizi.",
-  "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-  "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/bigbuckbunny_en.srt",
-  "language": "İngilizce Altyazı",
-  "poster": "https://upload.wikimedia.org/wikipedia/en/1/10/La_Casa_de_Papel_Poster.jpg"
-}
+[
+  {
+    "title": "Big Buck Bunny",
+    "category": "Animasyon",
+    "year": 2008,
+    "description": "Sevimli büyük tavşanın macerası.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/bigbuckbunny_en.srt",
+    "language": "İngilizce Altyazı",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Big_Buck_Bunny_first_frame.png/320px-Big_Buck_Bunny_first_frame.png"
+  },
+  {
+    "title": "Sintel",
+    "category": "Animasyon",
+    "year": 2010,
+    "description": "Cesur kızın ejderha macerası.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/sintel_en.srt",
+    "language": "İngilizce Altyazı",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sintel_poster.jpg/320px-Sintel_poster.jpg"
+  },
+  {
+    "title": "Elephants Dream",
+    "category": "Animasyon",
+    "year": 2006,
+    "description": "Gerçeküstü kısa film.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/elephantsdream_en.srt",
+    "language": "İngilizce Altyazı",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elephants_Dream_-_official_poster.png/320px-Elephants_Dream_-_official_poster.png"
+  },
+  {
+    "title": "Tears of Steel",
+    "category": "Animasyon",
+    "year": 2012,
+    "description": "Bilimkurgu kısa film.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/tearsofsteel_en.srt",
+    "language": "İngilizce Altyazı",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tears_of_Steel_poster.jpg/320px-Tears_of_Steel_poster.jpg"
+  },
+  {
+    "title": "For Bigger Blazes",
+    "category": "Kısa Film",
+    "year": 2013,
+    "description": "Komik kısa video.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "subtitle_url": "https://raw.githubusercontent.com/johnsmithxyz/sample-srt-files/main/forbiggerblazes_en.srt",
+    "language": "İngilizce Altyazı",
+    "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
+  }
+]
