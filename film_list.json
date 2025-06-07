@@ -1,4 +1,4 @@
-self.film_data = [
+[
   {
     "title": "La Casa de Papel",
     "category": "Dizi",
@@ -18,6 +18,15 @@ self.film_data = [
     "subtitle_url": "https://example.com/inception-tr-altyazi.srt",
     "language": "Türkçe Altyazı",
     "thumbnail": "https://example.com/inception.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "category": "Film",
+    "year": 2014,
+    "description": "Uzay ve zamanın sınırlarında insanlığın geleceğini araştıran film.",
+    "video_url": "https://example.com/interstellar-tr-dublaj.mp4",
+    "subtitle_url": "https://example.com/interstellar-tr-altyazi.srt",
+    "language": "Türkçe Dublaj",
+    "thumbnail": "https://example.com/interstellar.jpg"
   }
 ]
-self.create_tabs()
