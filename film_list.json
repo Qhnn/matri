@@ -1,14 +1,13 @@
-[
-  {
-    "title": "La Casa de Papel",
-    "category": "Dizi",
-    "year": 2017,
-    "description": "Bir grup soyguncunun İspanya Kraliyet Darphanesi'ni soymasını anlatan dizi.",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "subtitle_url": "https://example.com/lacasa-de-papel-tr-altyazi.srt",
-    "language": "Türkçe Dublaj",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/1/10/La_Casa_de_Papel_Poster.jpg"
-  },
+{
+  "title": "La Casa de Papel",
+  "category": "Dizi",
+  "year": 2017,
+  "description": "Bir grup soyguncunun İspanya Kraliyet Darphanesi'ni soymasını anlatan dizi.",
+  "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "subtitle_url": "https://example.com/lacasa-de-papel-tr-altyazi.srt",
+  "language": "Türkçe Dublaj",
+  "poster": "https://upload.wikimedia.org/wikipedia/en/1/10/La_Casa_de_Papel_Poster.jpg"
+}
   {
     "title": "Inception",
     "category": "Film",
