@@ -4,29 +4,29 @@
     "category": "Dizi",
     "year": 2017,
     "description": "Bir grup soyguncunun İspanya Kraliyet Darphanesi'ni soymasını anlatan dizi.",
-    "video_url": "https://example.com/lacasa-de-papel-tr-dublaj.mp4",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "subtitle_url": "https://example.com/lacasa-de-papel-tr-altyazi.srt",
     "language": "Türkçe Dublaj",
-    "thumbnail": "https://example.com/lacasa-de-papel.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/10/La_Casa_de_Papel_Poster.jpg"
   },
   {
     "title": "Inception",
     "category": "Film",
     "year": 2010,
     "description": "Rüya içinde rüya konseptiyle zihni keşfe çıkan film.",
-    "video_url": "https://example.com/inception-tr-altyazi.mp4",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "subtitle_url": "https://example.com/inception-tr-altyazi.srt",
     "language": "Türkçe Altyazı",
-    "thumbnail": "https://example.com/inception.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg"
   },
   {
-    "title": "Interstellar",
-    "category": "Film",
-    "year": 2014,
-    "description": "Uzay ve zamanın sınırlarında insanlığın geleceğini araştıran film.",
-    "video_url": "https://example.com/interstellar-tr-dublaj.mp4",
-    "subtitle_url": "https://example.com/interstellar-tr-altyazi.srt",
-    "language": "Türkçe Dublaj",
-    "thumbnail": "https://example.com/interstellar.jpg"
+    "title": "Breaking Bad",
+    "category": "Dizi",
+    "year": 2008,
+    "description": "Kimya öğretmeninin suç dünyasına adım atışı.",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "subtitle_url": "https://example.com/breakingbad-tr-altyazi.srt",
+    "language": "Türkçe Altyazı",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png"
   }
 ]
